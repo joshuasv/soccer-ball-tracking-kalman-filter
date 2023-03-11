@@ -2,7 +2,7 @@
 
 This implementation follows the approach presented in [1]. 
 
-Furthermore, the approach was validated against the predictions of a pre-trained YOLOv4. Results can be found in the `report.pdf`.
+Furthermore, the approach was validated against the predictions of a pre-trained YOLOv5. Results can be found in the `report.pdf`.
 
 I strongly recommend to those getting started with Kalman filters to give [2] a chance. Great quality material.
 
